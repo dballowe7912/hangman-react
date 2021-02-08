@@ -56,3 +56,10 @@
   color: #eeeeee;
   box-shadow: 0 6px #9e9e9e;
 }
+
+.Hangman .reset-btn {
+  background-color:#ffc107;
+  display: inline-block;
+  width: auto;
+  margin-bottom: 20px;
+}
